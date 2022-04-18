@@ -1,0 +1,4 @@
+{"email":"kinga.szayer@iths.se","time":"2022-01-01T00:00:00","amount":20000,"description":"teeest","status":0,"source_reference":null,"createdAt":"2022-04-09T07:20:58.585826+00:00","updatedAt":"2022-04-09T07:20:58.585826+00:00"}
+{"email":"kinga.szayer@iths.se","time":"2022-05-20T00:00:00","amount":11,"description":"igiug","status":0,"source_reference":null,"createdAt":"2022-04-09T08:16:42.173835+00:00","updatedAt":"2022-04-09T08:16:42.173835+00:00"}
+{"email":"kinga.szayer@iths.se","time":"2023-01-01T00:00:00","amount":10000,"description":"postgress-data-1","status":0,"source_reference":null,"createdAt":"2022-04-12T19:28:46.946002+00:00","updatedAt":"2022-04-12T19:28:46.946002+00:00"}
+{"email":"kinga.szayer@iths.se","time":"2023-04-21T00:00:00","amount":20000,"description":"postgres-data-2","status":0,"source_reference":null,"createdAt":"2022-04-12T19:29:12.14956+00:00","updatedAt":"2022-04-12T19:29:12.14956+00:00"}

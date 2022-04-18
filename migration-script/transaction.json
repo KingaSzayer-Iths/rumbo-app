@@ -1,0 +1,113 @@
+[{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:22.372Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:22.372Z"
+    },
+    "__v": 0
+  },{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:23.195Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:23.195Z"
+    },
+    "__v": 0
+  },{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:23.367Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:23.367Z"
+    },
+    "__v": 0
+  },{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:23.460Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:23.460Z"
+    },
+    "__v": 0
+  },{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:23.523Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:23.523Z"
+    },
+    "__v": 0
+  },{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:23.693Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:23.693Z"
+    },
+    "__v": 0
+  },{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:23.846Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:23.846Z"
+    },
+    "__v": 0
+  },{
+    "email": "fabio.lillman@iths.se",
+    "time": {
+      "$date": "2021-12-31T23:00:00Z"
+    },
+    "amount": 123,
+    "description": "123",
+    "createdAt": {
+      "$date": "2022-04-10T19:21:24.003Z"
+    },
+    "updatedAt": {
+      "$date": "2022-04-10T19:21:24.003Z"
+    },
+    "__v": 0
+  }]
